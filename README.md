@@ -1,2 +1,2 @@
 # COP3530
-Data Structures assignments and projects
+Coursework for Data Structures & Algorithms
